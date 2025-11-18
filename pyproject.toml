@@ -22,6 +22,7 @@ dependencies = [
   "nomad-external-eln-integrations",
   "pynxtools",
   "pynxtools-mpes",
+  "pynxtools-ellips"
 ]
 
 [tool.uv.workspace]
