@@ -5,6 +5,3 @@
 	path = packages/pynxtools
 	url = https://github.com/FAIRmat-NFDI/pynxtools.git
 	branch = ontology-service
-[submodule "packages/nomad-camels-plugin"]
-	path = packages/nomad-camels-plugin
-	url = https://github.com/Tanmay2028/nomad-camels-plugin.git
