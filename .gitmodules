@@ -4,3 +4,9 @@
 [submodule "packages/pynxtools"]
 	path = packages/pynxtools
 	url = https://github.com/FAIRmat-NFDI/pynxtools.git
+[submodule "packages/nomad-lap-schema"]
+	path = packages/nomad-lap-schema
+	url = https://github.com/FAU-LAP/nomad-lap-schema.git
+[submodule "packages/nomad-camels-plugin"]
+	path = packages/nomad-camels-plugin
+	url = https://github.com/Tanmay2028/nomad-camels-plugin.git
