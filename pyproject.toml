@@ -23,6 +23,7 @@ dependencies = [
   "nomad-external-eln-integrations",
   "nomad-lap-schema",
   "nomad-camels-plugin",
+  "pynxtools-mpes",
 ]
 
 [tool.uv.workspace]
