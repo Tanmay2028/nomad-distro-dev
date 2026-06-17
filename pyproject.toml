@@ -9,6 +9,7 @@ dependencies = [
     "nomad-lab[infrastructure]>=1.3.10",
     "nomad-ontology-service",
     "pynxtools[ontology]",
+    "pynxtools[mpes]",
 ]
 
 [tool.uv.workspace]
