@@ -10,6 +10,7 @@ dependencies = [
     "nomad-ontology-service",
     "pynxtools[ontology]",
     "pynxtools[mpes]",
+    "nomad-tajine-plugin",
 ]
 
 [tool.uv.workspace]
@@ -25,6 +26,7 @@ nomad-lap-schema = { workspace = true }
 nomad-camels-plugin = { workspace = true }
 pynxtools = { workspace = true }
 nomad-ontology-service = { workspace = true }
+nomad-tajine-plugin = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
