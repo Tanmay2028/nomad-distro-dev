@@ -11,7 +11,7 @@ dependencies = [
     "pynxtools[ontology]",
     "pynxtools[mpes]",
     "nomad-tajine-plugin",
-    "nomad-gui==2.0.0b2",
+    "nomad-gui==2.0.1",
     "nomad-lap-schema",
 ]
 
